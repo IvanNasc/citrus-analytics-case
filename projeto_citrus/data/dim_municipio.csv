@@ -1,0 +1,101 @@
+cod_municipio_ibge,nome_municipio,uf,estado,mesorregiao,regiao_brasil
+3503208.0,Araraquara,SP,São Paulo,Araraquara,Sudeste
+3506102.0,Bebedouro,SP,São Paulo,Ribeirão Preto,Sudeste
+3526902.0,Limeira,SP,São Paulo,Piracicaba,Sudeste
+3529302.0,Matão,SP,São Paulo,Araraquara,Sudeste
+3507407.0,Borborema,SP,São Paulo,Araraquara,Sudeste
+3522703.0,Itápolis,SP,São Paulo,Araraquara,Sudeste
+3533502.0,Novo Horizonte,SP,São Paulo,São José do Rio Preto,Sudeste
+3552601.0,Tabapuã,SP,São Paulo,São José do Rio Preto,Sudeste
+3511102.0,Catanduva,SP,São Paulo,São José do Rio Preto,Sudeste
+3530300.0,Mirassol,SP,São Paulo,São José do Rio Preto,Sudeste
+3170206.0,Uberlândia,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3170107.0,Uberaba,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3148004.0,Patos De Minas,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3127107.0,Frutal,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3134202.0,Ituiutaba,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3156908.0,Sacramento,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3104007.0,Araxá,MG,Minas Gerais,Triângulo Mineiro/Alto Paranaíba,Sudeste
+3147105.0,Pará De Minas,MG,Minas Gerais,Metropolitana de Belo Horizonte,Sudeste
+3167202.0,Sete Lagoas,MG,Minas Gerais,Metropolitana de Belo Horizonte,Sudeste
+3122306.0,Divinópolis,MG,Minas Gerais,Oeste de Minas,Sudeste
+4113700.0,Londrina,PR,Paraná,Norte Central Paranaense,Sul
+4115200.0,Maringá,PR,Paraná,Norte Central Paranaense,Sul
+4104808.0,Cascavel,PR,Paraná,Oeste Paranaense,Sul
+4108304.0,Foz Do Iguaçu,PR,Paraná,Oeste Paranaense,Sul
+4109401.0,Guarapuava,PR,Paraná,Centro-Sul Paranaense,Sul
+4119905.0,Ponta Grossa,PR,Paraná,Centro Oriental Paranaense,Sul
+4101408.0,Apucarana,PR,Paraná,Norte Central Paranaense,Sul
+4104303.0,Campo Mourão,PR,Paraná,Centro Ocidental Paranaense,Sul
+4118402.0,Paranavaí,PR,Paraná,Noroeste Paranaense,Sul
+4128104.0,Umuarama,PR,Paraná,Noroeste Paranaense,Sul
+2918407.0,Juazeiro,BA,Bahia,Vale São-Franciscano da Bahia,Nordeste
+,Petrolina,BA,Bahia,,
+2910800.0,Feira De Santana,BA,Bahia,Centro Norte Baiano,Nordeste
+2933307.0,Vitória Da Conquista,BA,Bahia,Centro Sul Baiano,Nordeste
+2903201.0,Barreiras,BA,Bahia,Extremo Oeste Baiano,Nordeste
+2913606.0,Ilhéus,BA,Bahia,Sul Baiano,Nordeste
+2914802.0,Itabuna,BA,Bahia,Sul Baiano,Nordeste
+2918001.0,Jequié,BA,Bahia,Centro Sul Baiano,Nordeste
+2909802.0,Cruz Das Almas,BA,Bahia,Metropolitana de Salvador,Nordeste
+2928703.0,Santo Antônio De Jesus,BA,Bahia,Metropolitana de Salvador,Nordeste
+5208707.0,Goiânia,GO,Goiás,Centro Goiano,Centro-Oeste
+5201108.0,Anápolis,GO,Goiás,Centro Goiano,Centro-Oeste
+5218805.0,Rio Verde,GO,Goiás,Sul Goiano,Centro-Oeste
+5205109.0,Catalão,GO,Goiás,Sul Goiano,Centro-Oeste
+5211909.0,Jataí,GO,Goiás,Sul Goiano,Centro-Oeste
+5211503.0,Itumbiara,GO,Goiás,Sul Goiano,Centro-Oeste
+5204508.0,Caldas Novas,GO,Goiás,Sul Goiano,Centro-Oeste
+5208004.0,Formosa,GO,Goiás,Leste Goiano,Centro-Oeste
+5212501.0,Luziânia,GO,Goiás,Leste Goiano,Centro-Oeste
+5201405.0,Aparecida De Goiânia,GO,Goiás,Centro Goiano,Centro-Oeste
+4314902.0,Porto Alegre,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4305108.0,Caxias Do Sul,RS,Rio Grande do Sul,Nordeste Rio-grandense,Sul
+4314407.0,Pelotas,RS,Rio Grande do Sul,Sudeste Rio-grandense,Sul
+4316907.0,Santa Maria,RS,Rio Grande do Sul,Centro Ocidental Rio-grandense,Sul
+4309209.0,Gravataí,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4323002.0,Viamão,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4313409.0,Novo Hamburgo,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4318705.0,São Leopoldo,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4304606.0,Canoas,RS,Rio Grande do Sul,Metropolitana de Porto Alegre,Sul
+4301602.0,Bagé,RS,Rio Grande do Sul,Sudoeste Rio-grandense,Sul
+4205407.0,Florianópolis,SC,Santa Catarina,Grande Florianópolis,Sul
+4209102.0,Joinville,SC,Santa Catarina,Norte Catarinense,Sul
+4202404.0,Blumenau,SC,Santa Catarina,Vale do Itajaí,Sul
+4216602.0,São José,SC,Santa Catarina,Grande Florianópolis,Sul
+4204608.0,Criciúma,SC,Santa Catarina,Sul Catarinense,Sul
+4204202.0,Chapecó,SC,Santa Catarina,Oeste Catarinense,Sul
+4208203.0,Itajaí,SC,Santa Catarina,Vale do Itajaí,Sul
+4208906.0,Jaraguá Do Sul,SC,Santa Catarina,Norte Catarinense,Sul
+4209300.0,Lages,SC,Santa Catarina,Serrana,Sul
+4211900.0,Palhoça,SC,Santa Catarina,Grande Florianópolis,Sul
+3304557.0,Rio De Janeiro,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3303302.0,Niterói,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3301702.0,Duque De Caxias,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3303500.0,Nova Iguaçu,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3300456.0,Belford Roxo,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3304904.0,São Gonçalo,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3301009.0,Campos Dos Goytacazes,RJ,Rio de Janeiro,Norte Fluminense,Sudeste
+3303906.0,Petrópolis,RJ,Rio de Janeiro,Metropolitana do Rio de Janeiro,Sudeste
+3306305.0,Volta Redonda,RJ,Rio de Janeiro,Sul Fluminense,Sudeste
+3300100.0,Angra Dos Reis,RJ,Rio de Janeiro,Sul Fluminense,Sudeste
+3205309.0,Vitória,ES,Espírito Santo,Central Espírito-santense,Sudeste
+3205002.0,Serra,ES,Espírito Santo,Central Espírito-santense,Sudeste
+3205200.0,Vila Velha,ES,Espírito Santo,Central Espírito-santense,Sudeste
+3201308.0,Cariacica,ES,Espírito Santo,Central Espírito-santense,Sudeste
+3201209.0,Cachoeiro De Itapemirim,ES,Espírito Santo,Sul Espírito-santense,Sudeste
+3203205.0,Linhares,ES,Espírito Santo,Litoral Norte Espírito-santense,Sudeste
+3201506.0,Colatina,ES,Espírito Santo,Noroeste Espírito-santense,Sudeste
+3202405.0,Guarapari,ES,Espírito Santo,Central Espírito-santense,Sudeste
+3204906.0,São Mateus,ES,Espírito Santo,Litoral Norte Espírito-santense,Sudeste
+3200607.0,Aracruz,ES,Espírito Santo,Litoral Norte Espírito-santense,Sudeste
+,Cuiabá,MT,Mato Grosso,,
+,Várzea Grande,MT,Mato Grosso,,
+,Rondonópolis,MT,Mato Grosso,,
+,Sinop,MT,Mato Grosso,,
+,Tangará Da Serra,MT,Mato Grosso,,
+,Cáceres,MT,Mato Grosso,,
+,Sorriso,MT,Mato Grosso,,
+,Lucas Do Rio Verde,MT,Mato Grosso,,
+,Primavera Do Leste,MT,Mato Grosso,,
+5101803.0,Barra Do Garças,MT,Mato Grosso,Nordeste Mato-grossense,Centro-Oeste

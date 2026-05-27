@@ -1,0 +1,45 @@
+============================================================
+RELATÓRIO DE LIMPEZA — CITRUS ANALYTICS
+============================================================
+
+[1] CSV bruto carregado: 3600 linhas, 9 colunas
+
+[2] Normalização de capitalização dos municípios
+    Variações únicas antes : 279
+    Variações únicas depois: 100
+    Decisão: str.strip().str.title() — garante 'Araraquara' independente de 'ARARAQUARA' ou 'araraquara'
+
+[3] Limpeza de qtd_produzida_ton
+    Strings '-' encontradas : 97
+    Strings vazias          : 0
+    Nulos originais         : 116
+    Total convertido p/ NaN : 213
+    Decisão: '-' e '' substituídos por NaN via pd.to_numeric
+
+[4] Limpeza de area_colhida_ha
+    Total convertido p/ NaN : 162
+    Decisão: mesma abordagem que qtd_produzida_ton
+
+[5] Limpeza de valor_producao_reais
+    Nulos: 122
+    Decisão: mantidos como NaN — valor não é usado em KPIs obrigatórios mas está disponível para análise financeira
+
+[6] Tipagem corrigida: ano e cod_produto → Int64
+
+[7] Filtro de registros inválidos
+    Regra: qtd_produzida_ton > 0 E area_colhida_ha > 0 (ambos não-nulos)
+    Registros descartados : 366
+    Registros mantidos    : 3234
+    Decisão: conforme especificação — área=0 com produção é inconsistência de coleta
+
+[8] Métrica derivada: produtividade_ton_ha = qtd_produzida_ton / area_colhida_ha
+    Min: 0.39 | Max: 85.11 | Média: 10.45
+
+[9] Construção de dim_municipio
+    Municípios com match na API IBGE: 90
+    Sem match (cod = NaN)            : 10
+    Decisão: registros sem match mantidos com cod_municipio_ibge = NaN
+
+[10] Construção de fato_producao
+    Linhas na fato_producao: 3234
+
